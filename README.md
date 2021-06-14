@@ -6,13 +6,13 @@
 ## Parameters
 
 *Type* - On different pages use this values: `Homepage`, `Category`, `Product`, `Basket` and `Transaction` <br>
-*Prog_ID* - Insert the campaign id.
-*Id_Partner* - Insert the campaign name.
-*Id_Category* - Insert a variable with the category id.
-*Product_Id* - Insert a variable with the product id.
-*Product_Name* - Insert a variable with the product name.
-*Price* - Insert a variable with the current price.
-*Amount* - Insert a variable with the subtotal.
+*Prog_ID* - Insert the campaign id.<br>
+*Id_Partner* - Insert the campaign name.<br>
+*Id_Category* - Insert a variable with the category id.<br>
+*Product_Id* - Insert a variable with the product id.<br>
+*Product_Name* - Insert a variable with the product name.<br>
+*Price* - Insert a variable with the current price.<br>
+*Amount* - Insert a variable with the subtotal.<br>
 *Transaction_Id* - ID of order, needed only on thank you page.
 
 ### Configuration
