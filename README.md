@@ -1,10 +1,6 @@
 # Tracking Code Afilio
 
-
-
-
-
-
+![1519895482968](https://user-images.githubusercontent.com/78829381/121950919-9fea7880-cd30-11eb-9647-6f4553818033.png)
 
 
 ## Parameters
@@ -21,5 +17,4 @@
 
 ### Configuration
 
-
-// imagem aqui
+![Afilio_MasterTags](https://user-images.githubusercontent.com/78829381/121950863-8cd7a880-cd30-11eb-8b70-a62179825c97.jpg)
