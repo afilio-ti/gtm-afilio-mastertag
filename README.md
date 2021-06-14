@@ -5,7 +5,7 @@
 
 ## Parameters
 
-*Type* - On different pages use this values: `Homepage`, `Category`, `Product`, `Basket` and `Transaction`
+*Type* - On different pages use this values: `Homepage`, `Category`, `Product`, `Basket` and `Transaction` <br>
 *Prog_ID* - Insert the campaign id.
 *Id_Partner* - Insert the campaign name.
 *Id_Category* - Insert a variable with the category id.
