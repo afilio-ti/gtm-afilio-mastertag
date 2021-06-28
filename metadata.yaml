@@ -2,5 +2,5 @@ homepage: "https://www.afilio.com.br"
 documentation: "https://github.com/afilio-ti/gtm-afilio-mastertag"
 versions:
 # Latest version
-  - sha: b09f20d2d1979ba047a82ada1d02173e65f0fb4c
+  - sha: cbd0cce75e7fbc302ec0092b6c8fec6ef776d1cc
     changeNotes: Initial Version
